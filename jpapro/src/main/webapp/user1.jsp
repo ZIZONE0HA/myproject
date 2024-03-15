@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-index2.jsp파일
+user1.jsp 재생성햇어 아까 지웟는데 그건 저장 아놰ㄸ더라
 </body>
 </html>
